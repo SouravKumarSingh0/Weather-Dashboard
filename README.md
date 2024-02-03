@@ -3,7 +3,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Screenshot](#screenshot)
 * [Credits](#credits)
   
 
@@ -18,7 +17,6 @@ This project is created with:
 * HTML:5
 * JavaScript
 * jQuery
-* Moment.js
 * Open Weather API
 
 
