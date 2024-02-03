@@ -21,10 +21,6 @@ This project is created with:
 * Moment.js
 * Open Weather API
 
-## Screenshot
-![project screenshot]("C:\Users\SAMRIDDHI\OneDrive\Pictures\Screenshots\weather forecast dashboard.png")
-Link to my deployed github page: file:///C:/Users/SAMRIDDHI/OneDrive/Desktop/weather%20forecast%20dashboard%201/weather-dashboard/index.html
-
 
 # Credits
 I consulted the OpenWeather API documentation (https://openweathermap.org/api), a tutorial for the Open Weather API (http://osp123.github.io/tutorials/html/weatherAPI.html), Moment.js (https://momentjs.com/), jQuery API Documentation (https://api.jquery.com/), W3Schools (https://www.w3schools.com/js/default.asp), MDN Web Docs (https://developer.mozilla.org/en-US/docs/Web/JavaScript), and Bootstrap 4 (https://getbootstrap.com/) extensively in creating my project. Some other resources that I used include: Stack Overflow (#https://stackoverflow.com/) and the GitLab repository for my course, specifically referencing the in-class activities. 
